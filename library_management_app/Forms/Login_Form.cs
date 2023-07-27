@@ -17,5 +17,9 @@ namespace library_management_app.Forms
             InitializeComponent();
         }
 
+        private void Login_Form_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
